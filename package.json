@@ -1,0 +1,32 @@
+{
+  "name": "streak-master",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.4",
+    "@capacitor/cli": "^7.4.4",
+    "@capacitor/core": "^7.4.4",
+    "canvas-confetti": "^1.9.3",
+    "clsx": "^2.1.1",
+    "expo": "^54.0.20",
+    "motion": "^11.16.0",
+    "prop-types": "^15.8.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-native": "^0.81.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.2",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "sharp": "^0.34.5",
+    "vite": "^5.4.8",
+    "vite-plugin-pwa": "^1.1.0"
+  }
+}
